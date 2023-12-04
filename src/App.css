@@ -29,7 +29,10 @@
   color: #00523e;
 }
 .bg-color-1 {
-  background-color: #20585c;
+  background-color: #F8870D;;
+}
+.bg-color-2 {
+  background-color: #161616;;
 }
 .btn-custom-1 {
   background-color: #000000;
@@ -40,6 +43,26 @@
   background-color: #000000;
   color: #ffffff!important;
   border:2px solid #000000;
+}
+.btn-custom-2 {
+  background-color: #F8870D;
+  color: #ffffff;
+  border:2px solid #F8870D;
+}
+.btn-custom-2:hover, .btn-custom-2:focus, .btn-custom-2:active {
+  background-color: #c46a0a;
+  color: #ffffff!important;
+  border:2px solid #c46a0a;
+}
+.btn-custom-3 {
+  background-color: #238EC7;
+  color: #ffffff;
+  border:2px solid #238EC7;
+}
+.btn-custom-3:hover, .btn-custom-3:focus, .btn-custom-3:active {
+  background-color: #1b6994;
+  color: #ffffff!important;
+  border:2px solid #1b6994;
 }
 .border-radius-0 {
   border-radius: 0;
