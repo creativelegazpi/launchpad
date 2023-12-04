@@ -173,6 +173,208 @@ function Home(props) {
                     </div>
                 </div>
             </div>
+
+            <div className="container py-5">
+                <div className="row py-5">
+                    <div className="col-lg-5 mb-5 mb-lg-0">
+                        <p className="text-center text-lg-start font-size-250 font-size-lg-350 font-size-xl-400 line-height-130">Frequently<br/> Asked<br/> <span className="font-weight-700">Questions</span></p>
+                    </div>
+
+                    <div className="col-lg-7">
+                        <div className="accordion" id="accordionExample">
+                            <div className="accordion-item" style={{borderLeft:'none',borderRight:'none',borderWidth:'2px'}}>
+                                <h2 className="accordion-header" id="headingOne">
+                                    <button className="accordion-button font-size-130" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapseOne" aria-expanded="true"
+                                            aria-controls="collapseOne">
+                                        What is Creative Legazpi's Artist Launchpad?
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" className="accordion-collapse collapse show"
+                                     aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                    <div className="accordion-body">
+                                        <strong>This is the first item's accordion body.</strong> It is shown by
+                                        default, until the collapse plugin adds the appropriate classes that we use to
+                                        style each element. These classes control the overall appearance, as well as the
+                                        showing and hiding via CSS transitions. You can modify any of this with custom
+                                        CSS or overriding our default variables. It's also worth noting that just about
+                                        any HTML can go within the <code>.accordion-body</code>, though the transition
+                                        does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="accordion-item" style={{borderLeft:'none',borderRight:'none',borderWidth:'2px'}}>
+                                <h2 className="accordion-header" id="headingTwo">
+                                    <button className="accordion-button collapsed font-size-130" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                            aria-expanded="false" aria-controls="collapseTwo">
+                                        What is Creative Legazpi's Artist Launchpad?
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" className="accordion-collapse collapse"
+                                     aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                    <div className="accordion-body">
+                                        <strong>This is the second item's accordion body.</strong> It is hidden by
+                                        default, until the collapse plugin adds the appropriate classes that we use to
+                                        style each element. These classes control the overall appearance, as well as the
+                                        showing and hiding via CSS transitions. You can modify any of this with custom
+                                        CSS or overriding our default variables. It's also worth noting that just about
+                                        any HTML can go within the <code>.accordion-body</code>, though the transition
+                                        does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="accordion-item" style={{borderLeft:'none',borderRight:'none',borderWidth:'2px'}}>
+                                <h2 className="accordion-header" id="headingThree">
+                                    <button className="accordion-button collapsed font-size-130" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                            aria-expanded="false" aria-controls="collapseThree">
+                                        What is Creative Legazpi's Artist Launchpad?
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" className="accordion-collapse collapse"
+                                     aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                    <div className="accordion-body">
+                                        <strong>This is the third item's accordion body.</strong> It is hidden by
+                                        default, until the collapse plugin adds the appropriate classes that we use to
+                                        style each element. These classes control the overall appearance, as well as the
+                                        showing and hiding via CSS transitions. You can modify any of this with custom
+                                        CSS or overriding our default variables. It's also worth noting that just about
+                                        any HTML can go within the <code>.accordion-body</code>, though the transition
+                                        does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="accordion-item" style={{borderLeft:'none',borderRight:'none',borderWidth:'2px'}}>
+                                <h2 className="accordion-header" id="heading-4">
+                                    <button className="accordion-button collapsed font-size-130" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapse-4"
+                                            aria-expanded="false" aria-controls="collapse-4">
+                                        What is Creative Legazpi's Artist Launchpad?
+                                    </button>
+                                </h2>
+                                <div id="collapse-4" className="accordion-collapse collapse"
+                                     aria-labelledby="heading-4" data-bs-parent="#accordionExample">
+                                    <div className="accordion-body">
+                                        <strong>This is the third item's accordion body.</strong> It is hidden by
+                                        default, until the collapse plugin adds the appropriate classes that we use to
+                                        style each element. These classes control the overall appearance, as well as the
+                                        showing and hiding via CSS transitions. You can modify any of this with custom
+                                        CSS or overriding our default variables. It's also worth noting that just about
+                                        any HTML can go within the <code>.accordion-body</code>, though the transition
+                                        does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="accordion-item" style={{borderLeft:'none',borderRight:'none',borderWidth:'2px'}}>
+                                <h2 className="accordion-header" id="heading-5">
+                                    <button className="accordion-button collapsed font-size-130" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapse-5"
+                                            aria-expanded="false" aria-controls="collapse-5">
+                                        What is Creative Legazpi's Artist Launchpad?
+                                    </button>
+                                </h2>
+                                <div id="collapse-5" className="accordion-collapse collapse"
+                                     aria-labelledby="heading-5" data-bs-parent="#accordionExample">
+                                    <div className="accordion-body">
+                                        <strong>This is the third item's accordion body.</strong> It is hidden by
+                                        default, until the collapse plugin adds the appropriate classes that we use to
+                                        style each element. These classes control the overall appearance, as well as the
+                                        showing and hiding via CSS transitions. You can modify any of this with custom
+                                        CSS or overriding our default variables. It's also worth noting that just about
+                                        any HTML can go within the <code>.accordion-body</code>, though the transition
+                                        does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="accordion-item" style={{borderLeft:'none',borderRight:'none',borderWidth:'2px'}}>
+                                <h2 className="accordion-header" id="heading-6">
+                                    <button className="accordion-button collapsed font-size-130" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapse-6"
+                                            aria-expanded="false" aria-controls="collapse-6">
+                                        What is Creative Legazpi's Artist Launchpad?
+                                    </button>
+                                </h2>
+                                <div id="collapse-6" className="accordion-collapse collapse"
+                                     aria-labelledby="heading-6" data-bs-parent="#accordionExample">
+                                    <div className="accordion-body">
+                                        <strong>This is the third item's accordion body.</strong> It is hidden by
+                                        default, until the collapse plugin adds the appropriate classes that we use to
+                                        style each element. These classes control the overall appearance, as well as the
+                                        showing and hiding via CSS transitions. You can modify any of this with custom
+                                        CSS or overriding our default variables. It's also worth noting that just about
+                                        any HTML can go within the <code>.accordion-body</code>, though the transition
+                                        does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="accordion-item" style={{borderLeft:'none',borderRight:'none',borderWidth:'2px'}}>
+                                <h2 className="accordion-header" id="heading-7">
+                                    <button className="accordion-button collapsed font-size-130" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapse-7"
+                                            aria-expanded="false" aria-controls="collapse-7">
+                                        What is Creative Legazpi's Artist Launchpad?
+                                    </button>
+                                </h2>
+                                <div id="collapse-7" className="accordion-collapse collapse"
+                                     aria-labelledby="heading-7" data-bs-parent="#accordionExample">
+                                    <div className="accordion-body">
+                                        <strong>This is the third item's accordion body.</strong> It is hidden by
+                                        default, until the collapse plugin adds the appropriate classes that we use to
+                                        style each element. These classes control the overall appearance, as well as the
+                                        showing and hiding via CSS transitions. You can modify any of this with custom
+                                        CSS or overriding our default variables. It's also worth noting that just about
+                                        any HTML can go within the <code>.accordion-body</code>, though the transition
+                                        does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="accordion-item" style={{borderLeft:'none',borderRight:'none',borderWidth:'2px'}}>
+                                <h2 className="accordion-header" id="heading-8">
+                                    <button className="accordion-button collapsed font-size-130" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapse-8"
+                                            aria-expanded="false" aria-controls="collapse-8">
+                                        What is Creative Legazpi's Artist Launchpad?
+                                    </button>
+                                </h2>
+                                <div id="collapse-8" className="accordion-collapse collapse"
+                                     aria-labelledby="heading-8" data-bs-parent="#accordionExample">
+                                    <div className="accordion-body">
+                                        <strong>This is the third item's accordion body.</strong> It is hidden by
+                                        default, until the collapse plugin adds the appropriate classes that we use to
+                                        style each element. These classes control the overall appearance, as well as the
+                                        showing and hiding via CSS transitions. You can modify any of this with custom
+                                        CSS or overriding our default variables. It's also worth noting that just about
+                                        any HTML can go within the <code>.accordion-body</code>, though the transition
+                                        does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="accordion-item" style={{borderLeft:'none',borderRight:'none',borderWidth:'2px'}}>
+                                <h2 className="accordion-header" id="heading-9">
+                                    <button className="accordion-button collapsed font-size-130" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapse-9"
+                                            aria-expanded="false" aria-controls="collapse-9">
+                                        What is Creative Legazpi's Artist Launchpad?
+                                    </button>
+                                </h2>
+                                <div id="collapse-9" className="accordion-collapse collapse"
+                                     aria-labelledby="heading-9" data-bs-parent="#accordionExample">
+                                    <div className="accordion-body">
+                                        <strong>This is the third item's accordion body.</strong> It is hidden by
+                                        default, until the collapse plugin adds the appropriate classes that we use to
+                                        style each element. These classes control the overall appearance, as well as the
+                                        showing and hiding via CSS transitions. You can modify any of this with custom
+                                        CSS or overriding our default variables. It's also worth noting that just about
+                                        any HTML can go within the <code>.accordion-body</code>, though the transition
+                                        does limit overflow.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     )
 }
