@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.fa0f8ba7.css",
-    "main.js": "/static/js/main.97cb87fd.js",
+    "main.js": "/static/js/main.94af3adb.js",
     "static/js/787.095bfeb4.chunk.js": "/static/js/787.095bfeb4.chunk.js",
-    "static/media/marso.webp": "/static/media/marso.fda22e765e2187ad5a1b.webp",
+    "static/media/mustachio-pathfinders.png": "/static/media/mustachio-pathfinders.6e2b5e22407b8d2957ea.png",
+    "static/media/mustashow.webp": "/static/media/mustashow.a45212ccad29988aceda.webp",
     "static/media/bg-1.webp": "/static/media/bg-1.033d11120ff946ccbe93.webp",
-    "static/media/avatar.webp": "/static/media/avatar.b8f553171df90e2be330.webp",
+    "static/media/dan.webp": "/static/media/dan.87c4a6becee36e592e6b.webp",
     "static/media/rocket.webp": "/static/media/rocket.e31576f6248b34a0a58c.webp",
     "static/media/logo.png": "/static/media/logo.72060cf811733b8dc5ca.png",
     "index.html": "/index.html",
     "main.fa0f8ba7.css.map": "/static/css/main.fa0f8ba7.css.map",
-    "main.97cb87fd.js.map": "/static/js/main.97cb87fd.js.map",
+    "main.94af3adb.js.map": "/static/js/main.94af3adb.js.map",
     "787.095bfeb4.chunk.js.map": "/static/js/787.095bfeb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa0f8ba7.css",
-    "static/js/main.97cb87fd.js"
+    "static/js/main.94af3adb.js"
   ]
 }
