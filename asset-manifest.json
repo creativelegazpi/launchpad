@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa0f8ba7.css",
-    "main.js": "/static/js/main.94af3adb.js",
+    "main.css": "/static/css/main.a7dbe615.css",
+    "main.js": "/static/js/main.b6134aa8.js",
     "static/js/787.095bfeb4.chunk.js": "/static/js/787.095bfeb4.chunk.js",
     "static/media/mustachio-pathfinders.png": "/static/media/mustachio-pathfinders.6e2b5e22407b8d2957ea.png",
     "static/media/mustashow.webp": "/static/media/mustashow.a45212ccad29988aceda.webp",
@@ -10,12 +10,12 @@
     "static/media/rocket.webp": "/static/media/rocket.e31576f6248b34a0a58c.webp",
     "static/media/logo.png": "/static/media/logo.72060cf811733b8dc5ca.png",
     "index.html": "/index.html",
-    "main.fa0f8ba7.css.map": "/static/css/main.fa0f8ba7.css.map",
-    "main.94af3adb.js.map": "/static/js/main.94af3adb.js.map",
+    "main.a7dbe615.css.map": "/static/css/main.a7dbe615.css.map",
+    "main.b6134aa8.js.map": "/static/js/main.b6134aa8.js.map",
     "787.095bfeb4.chunk.js.map": "/static/js/787.095bfeb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa0f8ba7.css",
-    "static/js/main.94af3adb.js"
+    "static/css/main.a7dbe615.css",
+    "static/js/main.b6134aa8.js"
   ]
 }
